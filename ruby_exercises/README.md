@@ -20,7 +20,7 @@ Each folder in this repository is a set of related exercises. Open up the folder
 
   run `gem install bundler` in your terminal
 
-3. From the command line, run `bundle install`
+3. From the command line, run ``
 
   You _should_ see something like this:
 
